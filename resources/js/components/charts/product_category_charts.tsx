@@ -13,7 +13,7 @@ export default function product_category_charts() {
                     <XAxis dataKey="products" />
                     <YAxis />
                     <Tooltip />
-                    <Bar dataKey="quantity" fill="#ffffff" />
+                    <Bar dataKey="quantity" fill="#32e013" />
                 </BarChart>
             </ResponsiveContainer>
         </div>

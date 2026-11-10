@@ -14,9 +14,9 @@ export const monthlySalesData = [
 ]; 
 
 export const productCategorySoldData = [
-    { products: 'Electronics', quantity: 120, color: '#FF6384' },
-    { products: 'Clothing', quantity: 80, color: '#36A2EB' },
+    { products: 'Electronics', quantity: 32, color: '#FF6384' },
+    { products: 'Clothing', quantity: 62, color: '#36A2EB' },
     { products: 'Home & Kitchen', quantity: 60, color: '#FFCE56' },
-    { products: 'Books', quantity: 40, color: '#4BC0C0' },
-    { products: 'Sports', quantity: 30, color: '#ff0000' },
+    { products: 'Books', quantity: 80, color: '#4BC0C0' },
+    { products: 'Sports', quantity: 110, color: '#ff0000' },
 ]

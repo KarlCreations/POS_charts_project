@@ -12,7 +12,7 @@ export default function monthly_sales_charts() {
                     <XAxis dataKey="month" />
                     <YAxis />
                     <Tooltip />
-                    <Line dataKey="sales" stroke="#000000" />
+                    <Line dataKey="sales" stroke="#3200fbbc" />
                 </LineChart>
             </ResponsiveContainer>
         </div>
